@@ -1,9 +1,9 @@
 [package]
-name = "tmdb"
+name = "mdb"
 version = "1.0.0-b.1"
 authors = ["Mohammadreza Amini <mohammadreza99a@yahoo.com>"]
 edition = "2018"
-description = "Command line app to interact with TMDB (The Movie DataBase)"
+description = "Command line rust app to get all sort of information about movies and tv shows"
 license = "MIT"
 keywords= ["tmdb", "movie", "tv", "database"]
 categories = ["command-line-utilities", "command-line-interface"]
